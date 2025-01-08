@@ -89,7 +89,7 @@ AVL 트리는 이진 탐색 트리의 일종으로, 각 노드의 자식 노드�
 
 ```bash
 pip install matplotlib networkx numpy
-
+```
 ## 사용 언어
 
 - <img src="https://img.shields.io/badge/Operating System-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white">
