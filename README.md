@@ -89,3 +89,48 @@ AVL 트리는 이진 탐색 트리의 일종으로, 각 노드의 자식 노드�
 
 ```bash
 pip install matplotlib networkx numpy
+
+## 사용 언어
+
+- <img src="https://img.shields.io/badge/Operating System-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white">
+- <img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+- <img src="https://img.shields.io/badge/Project Encoding-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/UTF 8-EA2328?style=for-the-badge">
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+<!-- GETTING STARTED -->
+## 사용 방법
+1. Python 파일을 실행합니다.
+2. plt show 창을 닫으면 다음 과정이 팝업됩니다.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- LICENSE -->
+## License
+
+해당 소스코드는 MIT License를 사용합니다. 더 많은 정보는 `LICENSE.txt` 를 참고하십시오.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- CONTACT -->
+## Contact
+
+  <a href="https://instagram.com/5rang9tan">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"><img src="https://img.shields.io/badge/@5rang9tan-515151?style=for-the-badge">
+  </a>
+  <a href="https://x.com/5rang9tan">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"><img src="https://img.shields.io/badge/@5rang9tan-515151?style=for-the-badge">
+  </a>
+  <a href="https://threads.net/5rang9tan">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"><img src="https://img.shields.io/badge/@5rang9tan-515151?style=for-the-badge">
+  </a>
+  <a href="mailto:﻿"taeyang@cubes.kr">
+    <img src="https://img.shields.io/badge/mail-000000?style=for-the-badge&logo=gmail&logoColor=white"><img src="https://img.shields.io/badge/taeyang@cubes.kr-515151?style=for-the-badge">
+  </a>
